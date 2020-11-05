@@ -1,0 +1,822 @@
+body{
+position: relative;
+width: 1910px;
+height: 3288px;
+margin: 0;
+}
+
+header{
+position: relative;
+width: 1910px;
+height: 581px;
+left: 0px;
+top: 0px;
+margin: 0;
+}
+
+.fon{
+position: absolute;
+width: 1910px;
+height: 581px;
+left: 0px;
+top: 0px;
+margin: 0;
+background: url(samuel-scrimshaw-rJc1RioyERQ-unsplash1.png) no-repeat right;
+}
+
+.logo {
+background: url(Vector.png) right bottom no-repeat;
+position: relative;
+width: 130px;
+height: 82.51px;
+left: 120px;
+top: 4px;
+size: 50px;
+}
+
+.hr1{
+position: absolute;
+height: 25px;
+top: 15px;
+color: #2E2F22;
+font-family: "Open Sans", sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+letter-spacing: 0em;
+}
+
+.p1{
+position: absolute;
+left: 1110px;
+width: 61px;
+}
+
+.p2{
+position: absolute;
+left: 1254px;
+width: 76px;
+}
+
+.p3{
+position: absolute;
+left: 1453px;
+width: 100px;
+}
+
+.p4{
+position: absolute;
+left: 1656px;
+width: 133px;
+}
+
+.calendar{
+position: absolute;
+width: 997px;
+height: 463px;
+left: 120px;
+top: 1051px;
+background: url(estee-janssens-zni0zgb3bkQ-unsplas1.png) right bottom no-repeat;
+}
+
+.motivation{
+position: absolute;
+width: 483px;
+height: 55px;
+left: 120px;
+top: 636px;
+font-family: Arial, serif;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 55px;
+color: #2E2F22;
+}
+
+.tag{
+position: absolute;
+width: 216px;
+height: 26px;
+left: 120px;
+top: 727px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+color: rgba(46, 47, 34, 0.7);
+}
+
+.data{
+position: absolute;
+width: 83px;
+height: 26px;
+left: 454px;
+top: 727px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+color: rgba(46, 47, 34, 0.7);
+}
+
+.story{
+position: absolute;
+width: 991px;
+height: 208px;
+left: 119px;
+top: 803px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+color: #2E2F22;
+}
+
+.bas{
+position: absolute;
+width: 991px;
+height: 366px;
+left: 120px;
+top: 1589px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 26px;
+color: #2E2F22;
+}
+
+.advice{
+position: absolute;
+width: 895px;
+height: 25px;
+left: 120px;
+top: 1524px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 26px;
+color: #2E2F22;
+}
+
+.allarticles{
+position: absolute;
+width: 313px;
+height: 49px;
+left: 121px;
+top: 2082px;
+font-family: "Open Sans", monospace;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 49px;
+color: #2E2F22;
+}
+
+.ar1{
+position: absolute;
+width: 62.07px;
+height: 0px;
+left: 460px;
+top: 2150px;
+border: 1px solid#2E2F22;
+box-sizing: border-box;
+}
+
+.mark{
+position: absolute;
+width: 0px;
+height: 20px;
+left: 515px;
+top: 2142px;	
+}
+
+i{
+border: solid black;
+border-width: 0 3px 3px 0;
+display: inline-block;
+padding: 3px;
+}
+
+.arrowRight{
+transform: rotate(-45deg);
+}
+
+.twitter{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 903px;
+top: 1995px;
+}
+
+.facebook{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 985px;
+top: 1995px;
+}
+
+.vk{
+position: absolute;
+width: 50px;
+height: 49.9px;
+left: 1067px;
+top: 1995px;
+}
+
+.heart{
+position: absolute;
+width: 65px;
+height: 65px;
+left: 120px;
+top: 1995px;
+border-color: #fff;
+background-color: #fff;
+font-size: 24px;
+}
+
+.heart .likes-number {
+  margin-left: 0px;
+  line-height: 0px;
+}
+
+.likes-number:hover, likes-number:active{
+	background-color: #000; 
+}
+
+.tx{
+position: absolute;
+width: 32px;
+height: 30px;
+left: 64px;
+top: 20px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 26px;
+color: #2E2F22;
+}
+
+.people{
+position: absolute;
+width: 793px;
+height: 429px;
+left: 121px;
+top: 2196px;
+background: #ECE1E1;
+border-radius: 10px;
+}
+
+.img1{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 101px;
+top: 44px;
+background: url(petrov.png);
+border-radius: 10px;
+}
+
+.ip{
+position: absolute;
+width: 109px;
+height: 22px;
+left: 164px;
+top: 40px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+color: #2E2F22;	
+}
+
+.text1{
+position: absolute;
+width: 210px;
+height: 22px;
+left: 101px;
+top: 95px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: #2E2F22;
+}
+
+.img2{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 102px;
+top: 185px;
+background: url(ksenia.png);
+border-radius: 10px;
+}
+
+.kk{
+position: absolute;
+width: 125px;
+height: 22px;
+left: 164px;
+top: 180px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+color: #2E2F22;
+}
+
+.text2{
+position: absolute;
+width: 301px;
+height: 22px;
+left: 101px;
+top: 234px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: #2E2F22;
+}
+
+.img3{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 102px;
+top: 294px;
+background: url(ivanov.png);
+border-radius: 10px;
+}
+
+.ii{
+position: absolute;
+width: 112px;
+height: 22px;
+left: 164px;
+top: 290px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+color: #2E2F22;
+}
+
+.text3{
+position: absolute;
+width: 613px;
+height: 22px;
+left: 101px;
+top: 345px;
+font-family: "Open Sans";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: #2E2F22
+}
+
+.ln1{
+position: absolute;
+width: 221px;
+height: 0px;
+left: 202px;
+top: 2841px;
+border: 1px solid #2E2F22;
+}
+
+.ln2{
+position: absolute;
+width: 221px;
+height: 0px;
+left: 202px;
+top: 2913px;
+border: 1px solid #2E2F22;
+}
+
+.coment{
+position: absolute;
+width: 305px;
+height: 33px;
+left: 202px;
+top: 2702px;
+font-family: "Open Sans", serif;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 33px;
+color: #2E2F22;
+}
+
+.rect1{
+position: absolute;
+width: 224px;
+height: 46px;
+left: 202px;
+top: 2966px;
+border: 1px solid #202117;
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+.rect2{
+position: absolute;
+width: 406px;
+height: 208px;
+left: 507px;
+top: 2804px;
+border: 1px solid #2E2F22;
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+.user{
+position: absolute;
+width: 33px;
+height: 22px;
+left: 202px;
+top: 2795px;
+font-family: "Open Sans", serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: #2E2F22;
+}
+
+.mail{
+position: absolute;
+width: 48px;
+height: 22px;
+left: 202px;
+top: 2867px;
+font-family: "Open Sans", serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: #2E2F22;
+}
+
+.send{
+position: absolute;
+width: 85px;
+height: 22px;
+left: 272px;
+top: 2960px;
+font-family: "Open Sans", serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: #202117;
+}
+
+.write{
+position: absolute;
+width: 199px;
+height: 22px;
+left: 527px;
+top: 2813px;
+font-family: "Open Sans", serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: #2E2F22;
+}
+
+.networks{
+position: relative;
+display: flex;
+flex-direction: row-reverse;
+justify-content: space-between;
+text-align: center;
+width: 760px;
+left: 625px;
+top: 2490px;
+font-size: 20px;
+font-family: "Open Sans", monospace;
+}
+
+.rect22{
+position: relative;
+width: 1910px;
+height: 181px;
+left: 0px;
+top: 2607px;
+background: #D7D1C9;
+}
+
+.comment-form {
+  display: flex;
+    margin-bottom: 30px;
+  padding: 20px 12px;
+}
+
+.comment-inner {
+  position: relative;
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.comment-label {
+  position: absolute;
+  top: -15px;
+  left: -9px;
+  padding: 4px 8px;
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.comment-field {
+	position: absolute;
+width: 385px;
+height: 205px;
+left: 495px;
+top: 2065px;
+  padding: 0 10px;
+  border: none;
+  background-color: transparent;
+  font: inherit;
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.comment-field::placeholder {
+  color: #aaaaaa;
+  font: inherit;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.comment-field:focus::placeholder {
+  font-size: 0;
+}
+
+.comment-field:hover::placeholder,
+.comment-field:active::placeholder {
+  opacity: 1.5;
+}
+
+.inner-news .inner-heading {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.comment-list {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 12px;
+  margin-left: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: comments;
+}
+
+.comment-list li {
+  margin-bottom: 6px;
+  padding: 10px 12px;
+  min-height: 36px;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.comment-list .users-comment {
+  position: relative;
+  display: flex;
+}
+
+.comment-list .users-comment:before {
+  counter-increment: comments;
+  content: "#" counter(comments);
+  padding-right: 12px;
+  margin-right: 12px;
+  border-right: 1px solid;
+  font-weight: bold;
+}
+
+.comment-list .users-comment::after {
+  position: absolute;
+  content: "";
+  width: 0px;
+  height: 0px;
+  bottom: 0px;
+  left: 8px;
+  border: 4px solid;
+  border-left-color: transparent;
+  border-top-color: transparent;
+}
+
+.user-form {
+  display: flex;
+    margin-bottom: 30px;
+  padding: 20px 12px;
+}
+
+.user-inner {
+  position: relative;
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.user-label {
+  position: absolute;
+  top: -15px;
+  left: -9px;
+  padding: 4px 8px;
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.user-field {
+	position: absolute;
+width: 202px;
+height: 30px;
+left: 190px;
+top: 2210px;
+  padding: 0 10px;
+  border: none;
+  background-color: transparent;
+  font: inherit;
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.user-field::placeholder {
+  color: #aaaaaa;
+  font: inherit;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.user-field:focus::placeholder {
+  font-size: 0;
+}
+
+.user-field:hover::placeholder,
+.user-field:active::placeholder {
+  opacity: 1.5;
+}
+
+.inner-news .inner-heading {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.user-list {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 12px;
+  margin-left: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: comments;
+}
+
+.user-list li {
+  margin-bottom: 6px;
+  padding: 10px 12px;
+  min-height: 36px;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.user-list .users-comment {
+  position: relative;
+  display: flex;
+}
+
+.user-list .users-comment:before {
+  counter-increment: comments;
+  content: "#" counter(comments);
+  padding-right: 12px;
+  margin-right: 12px;
+  border-right: 1px solid;
+  font-weight: bold;
+}
+
+.user-list .users-comment::after {
+  position: absolute;
+  content: "";
+  width: 0px;
+  height: 0px;
+  bottom: 0px;
+  left: 8px;
+  border: 4px solid;
+  border-left-color: transparent;
+  border-top-color: transparent;
+}
+
+.mail-form {
+  display: flex;
+    margin-bottom: 30px;
+  padding: 20px 12px;
+}
+
+.mail-inner {
+  position: relative;
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.mail-label {
+  position: absolute;
+  top: -15px;
+  left: -9px;
+  padding: 4px 8px;
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.mail-field {
+	position: absolute;
+width: 202px;
+height: 30px;
+left: 190px;
+top: 2212px;
+  padding: 0 10px;
+  border: none;
+  background-color: transparent;
+  font: inherit;
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.mail-field::placeholder {
+  color: #aaaaaa;
+  font: inherit;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.mail-field:focus::placeholder {
+  font-size: 0;
+}
+
+.mail-field:hover::placeholder,
+.mail-field:active::placeholder {
+  opacity: 1.5;
+}
+
+.inner-news .inner-heading {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.mail-list {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 12px;
+  margin-left: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: comments;
+}
+
+.mail-list li {
+  margin-bottom: 6px;
+  padding: 10px 12px;
+  min-height: 36px;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.mail-list .users-comment {
+  position: relative;
+  display: flex;
+}
+
+.mail-list .users-comment:before {
+  counter-increment: comments;
+  content: "#" counter(comments);
+  padding-right: 12px;
+  margin-right: 12px;
+  border-right: 1px solid;
+  font-weight: bold;
+}
+
+.mail-list .users-comment::after {
+  position: absolute;
+  content: "";
+  width: 0px;
+  height: 0px;
+  bottom: 0px;
+  left: 8px;
+  border: 4px solid;
+  border-left-color: transparent;
+  border-top-color: transparent;
+}

@@ -1,0 +1,6 @@
+<button class="topic">Выбрать тему</button>
+<a href="#">Город</a>
+<a href="#">Книги</a>
+<a href="#">Путешествие</a>
+<a href="#">Рецепты</a>
+<a href="#">Фотографии</a>
